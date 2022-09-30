@@ -11,6 +11,8 @@
 -🪄 Javascript <br/>
 -🪄 HTML <br/>
 -🪄 CSS <br/>
+-🪄 Web Development <br/>
+-🪄 Projects <br/>
 <br/>
 In each respective folder on any topic, don't forget to read the rules below to get your pull request accepted.</h3>
 <p>👷‍♂️ Contribute anything to this repo and earn rewards!</p>
