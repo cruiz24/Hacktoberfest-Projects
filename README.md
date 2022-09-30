@@ -43,5 +43,6 @@ In each respective folder on any topic, don't forget to read the rules below to 
 <h3>🛡 Notice</h3>
 <p>⚔️ All contributors who have followed above rules correctly will meet merge pull request successfully.</p>
 <p>⚔️ For any further issues, you can contact me in the comments</p>
+<p>⚔️ Always make more than 4 total pull requests for hacktoberfest for safer side.</p>
 <br/>
 <h2>🖥️ Happy Hacking...</h2>
